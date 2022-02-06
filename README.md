@@ -1,5 +1,5 @@
 # FaceitFinder-Enhancer
-Fetches and displays cs:go competitive and Esportal ranks in faceitfinder.
+Fetches and displays cs:go competitive and Esportal ranks in faceitfinder.com
 
 - Adds matchmaking and esportal ranks to faceitfinder.com. Uses csgostats.gg or convars.com for getting the matchmaking rank and other data for players.
 - Latest faceit match is acquired from faceit api.
