@@ -13,3 +13,5 @@ There are some not so optimal practices used due to the nature of this script an
 The script also adds some QOL improvements to the site.
 
 This has been tested to work with Tampermonkey and Violentmonkey on Chromium(Edge & Chrome) and Firefox.
+
+### [Install userscript](https://github.com/Apina-32/FaceitFinder-Enhancer/raw/main/userscript.user.js)
