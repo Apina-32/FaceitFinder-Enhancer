@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         FaceitFinder MM Ranks
-// @version      2.7.8
+// @version      2.7.9
 // @updateURL    https://github.com/Apina-32/FaceitFinder-Enhancer/raw/main/userscript.user.js
 // @description  Fetches and displays cs:go competitive ranks in faceitfinder.
 // @author       Apina-32
@@ -23,15 +23,6 @@
  
 (async function () {
     // Settings can be changed from the tampermonkey menu
- 
-    // Changing any settings/variables or code will disable automatic updates
- 
-    /* These are deprecated after adding config menu
-    // Set this to true if the site is too high/long
-    const shortMode = false;
-    // How many competitive wins is "good"?
-    const winThreshold = 500;
-    */
  
     const infoCount = 6;
     const timeInMatchPosition = infoCount + 1;
