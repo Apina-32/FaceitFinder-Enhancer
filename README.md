@@ -6,9 +6,11 @@ The code is in desprate need of refactoring, since this started as a proof of co
 There are some not so optimal practices used due to the nature of this script and due to the original sites implementation.
 
 ### Features
-- Adds matchmaking and esportal ranks to faceitfinder.com. Uses csgostats.gg or convars.com for getting the matchmaking rank and other data for players.
-- Latest faceit match is acquired from faceit api.
-- Esportal rank is acquired from Esportal api.
+- Adds matchmaking ranks for players
+- Shows matchmaking wins for players
+- Shows actual playtime for players
+- Shows latest faceit match acquired from faceit api
+- Show esportal rank acquired from Esportal api
 
 The script also adds some QOL improvements to the site.
 
