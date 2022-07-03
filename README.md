@@ -1,3 +1,5 @@
+# This is no longer being developed and does not work.
+
 # FaceitFinder-Enhancer
 Fetches and displays cs:go competitive and Esportal ranks in faceitfinder.com
 
